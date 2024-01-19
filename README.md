@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhagyatrivedi27
 - 👀 I’m Software Developer interested in developing Efficient and Scalable systems, microservices.
-- 📫 You can reach me @ bhagyatrivedi20273@gmail.com
+- 📫 You can reach me @ bhagyatrivedi20273@gmail.com or trivedi.bh@northeastern.edu
 
 <!---
 Bhagyatrivedi27/Bhagyatrivedi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
