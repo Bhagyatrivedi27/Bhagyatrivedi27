@@ -16,6 +16,28 @@
 - LinkedIn: [bhagyatrivedi27](https://www.linkedin.com/in/bhagyatrivedi27)
 - Portfolio: [bhagyatrivedi.netlify.app](https://www.bhagyatrivedi.netlify.app/)
 
+
+### 🛠 Skillsets
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" title="Vue.js"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform"/>
+</div>
+
 ### 📜 Experiences and Projects
 
 #### Research Assistant – Software Engineering, Northeastern University
