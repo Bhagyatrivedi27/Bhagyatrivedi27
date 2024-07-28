@@ -10,7 +10,7 @@
 
 ## 📫 How to Reach Me
 - Email: [bhagyatrivedi20273@gmail.com](mailto:bhagyatrivedi20273@gmail.com) or [trivedi.bh@northeastern.edu](mailto:trivedi.bh@northeastern.edu)
-- GitHub: [Bhagyatrivedi27](https://github.com/Bhagyatrivedi27)
+- GitHub: [Bhagyatrivedi27](https://github.com/Bhagyatrivedi27) or [bhagyatrivedi](https://github.com/bhagyatrivedi)
 
 ### 🌐 My Online Presence
 - LinkedIn: [bhagyatrivedi27](https://www.linkedin.com/in/bhagyatrivedi27)
