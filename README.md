@@ -1,5 +1,7 @@
 # Hi, I’m Bhagya Trivedi (@Bhagyatrivedi27)
 
+
+
 👋 Welcome to my GitHub profile! I'm a passionate Software Developer with a keen interest in developing efficient and scalable systems and microservices.
 
 ## 👀 What I'm Interested In
@@ -15,7 +17,6 @@
 ### 🌐 My Online Presence
 - LinkedIn: [bhagyatrivedi27](https://www.linkedin.com/in/bhagyatrivedi27)
 - Portfolio: [bhagyatrivedi.netlify.app](https://www.bhagyatrivedi.netlify.app/)
-
 
 ### 🛠 Skillsets
 
@@ -63,6 +64,8 @@
 - **Technology Stack**: Deep Learning, PyTorch, Neural Networks
 - **Description**: Architected a real-time energy management algorithm using N-Beats architecture to enhance battery load forecasting for residential energy systems. Improved performance using Conformal Quantile Regression (CQR) model by 20% across all load types.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bhagyatrivedi27&color=blue)
 <!---
 Bhagyatrivedi27/Bhagyatrivedi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
